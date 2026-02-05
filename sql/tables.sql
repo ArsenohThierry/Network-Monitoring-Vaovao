@@ -1,0 +1,12 @@
+CREATE DATABASE IF NOT EXISTS projet_reseau;
+
+USE projet_reseau;
+
+CREATE TABLE IF NOT EXISTS devices (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    ip VARCHAR(30) NOT NULL,
+    mac VARCHAR(30) NOT NULL,
+    interface VARCHAR(20),
+    nom VARCHAR(255)
+);
+
