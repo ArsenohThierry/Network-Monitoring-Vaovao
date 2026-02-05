@@ -4,3 +4,4 @@
 [2026-02-05 14:29:22] SUCCESS - block IP: 10.42.0.185 - Requested by: ::1
 [2026-02-05 14:36:19] SUCCESS - unblock IP: 10.42.0.185 - Requested by: ::1
 [2026-02-05 14:36:20] SUCCESS - block IP: 10.42.0.185 - Requested by: ::1
+[2026-02-05 21:41:11] FAILED - block IP: 192.168.88.1 - Requested by: 127.0.0.1

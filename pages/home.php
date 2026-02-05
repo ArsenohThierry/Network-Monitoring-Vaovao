@@ -396,6 +396,10 @@ function getDeviceIcon($mac)
                 </div>
 
                 <div class="sidebar">
+
+                    <a href="network-map.php" class="nav-link">
+                        <i class="fas fa-project-diagram"></i> Carte Réseau
+                    </a>
                     <div class="info-box">
                         <h3><i class="fas fa-info-circle"></i> Vue d'ensemble</h3>
                         <p>Cette section affiche tous les appareils actuellement connectés à votre réseau. Les données sont récupérées en temps réel via la commande <code>ip neigh</code>.</p>
